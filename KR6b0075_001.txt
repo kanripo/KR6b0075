@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:36.709840
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:06
 #+TITLE: 灌頂王喻經
 #+PROPERTY: CBETA_ID T04n0218
 #+PROPERTY: ID KR6b0075
